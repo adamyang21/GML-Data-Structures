@@ -1,5 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"except_argument_error","path":"objects/except_argument_error/except_argument_error.yy",},"order":2,},
+    {"id":{"name":"obj_run_script","path":"objects/obj_run_script/obj_run_script.yy",},"order":0,},
+    {"id":{"name":"except_exception","path":"objects/except_exception/except_exception.yy",},"order":0,},
+    {"id":{"name":"scr_essential_functions","path":"scripts/scr_essential_functions/scr_essential_functions.yy",},"order":1,},
+    {"id":{"name":"except_type_error","path":"objects/except_type_error/except_type_error.yy",},"order":1,},
+    {"id":{"name":"scr_data_structures_enum","path":"scripts/scr_data_structures_enum/scr_data_structures_enum.yy",},"order":2,},
+    {"id":{"name":"scr_functions","path":"scripts/scr_functions/scr_functions.yy",},"order":3,},
+    {"id":{"name":"dstruct_integer","path":"objects/dstruct_integer/dstruct_integer.yy",},"order":2,},
+    {"id":{"name":"scr_run_script","path":"scripts/scr_run_script/scr_run_script.yy",},"order":0,},
+    {"id":{"name":"abs_constructor","path":"objects/abs_constructor/abs_constructor.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -32,6 +42,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/exceptions.yy","order":4,"resourceVersion":"1.0","name":"exceptions","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
