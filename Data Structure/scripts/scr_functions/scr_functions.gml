@@ -1,15 +1,16 @@
-function new() {
+function new_dstruct() {
     if argument_count == 1 {
         value = argument[0];
         if typeof(value) == "number" {
-            if value == floor(value)
-
+            if value == floor(value) {
+                return new_integer(value);
+            }
         }
     }
 }
 
 function new_integer(value) {
-    
+    return instance_construct_depth(x, y, depth, dstruct_integer, [value]);
 }
 
 
